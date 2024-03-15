@@ -1,0 +1,93 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Samriddhi Makasare
+ID:      169065096
+Email:   maka5096@mylaurier.ca
+Version: 2023-10-15
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter square footage: 100000.0
+100000.0 square feet is equal to 2.295684113865932 acres.
+
+Enter square footage: 500
+500.0 square feet is equal to 0.01147842056932966 acres.
+
+Enter square footage: 989090
+989090.0 square feet is equal to 22.70638200183655 acres.
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter the width of the lawn (in meters): 20.0
+Enter the length of the lawn (in meters): 50.0
+Enter the mowing speed (square meters cut per minute): 4.0
+It will take 250.0 minutes to mow the lawn.
+
+Enter the width of the lawn (in meters): 09
+Enter the length of the lawn (in meters): 97
+Enter the mowing speed (square meters cut per minute): 87
+It will take 10.03448275862069 minutes to mow the lawn.
+
+Enter the width of the lawn (in meters): 787
+Enter the length of the lawn (in meters): 87098
+Enter the mowing speed (square meters cut per minute): 979
+It will take 70016.47191011236 minutes to mow the lawn.
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a date number in the format YYYYMMDD: 19621025
+Year: 1962
+Month: 10
+Day: 25
+
+Enter a date number in the format YYYYMMDD: 20051110
+Year: 2005
+Month: 11
+Day: 10
+
+Enter a date number in the format YYYYMMDD: 19781111
+Year: 1978
+Month: 11
+Day: 11
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter the numerator of the first fraction: 1
+Enter the denominator of the first fraction (must be nonzero): 2
+Enter the numerator of the second fraction: 3
+Enter the denominator of the second fraction (must be nonzero): 4
+multiply_fractions(1, 2, 3, 4) -> (3, 8, 0.375)
+
+Enter the numerator of the first fraction: 3
+Enter the denominator of the first fraction (must be nonzero): 32
+Enter the numerator of the second fraction: 21
+Enter the denominator of the second fraction (must be nonzero): 21
+multiply_fractions(3, 32, 21, 21) -> (63, 672, 0.094)
+
+Enter the numerator of the first fraction: 989
+Enter the denominator of the first fraction (must be nonzero): 093
+Enter the numerator of the second fraction: 32
+Enter the denominator of the second fraction (must be nonzero): 21
+multiply_fractions(989, 93, 32, 21) -> (31648, 1953, 16.205)
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter the time (in seconds) the object has fallen: 15
+The distance the object has fallen is 1102.5 meters.
+
+Enter the time (in seconds) the object has fallen: 798
+The distance the object has fallen is 3120339.6 meters.
+
+Enter the time (in seconds) the object has fallen: 98
+The distance the object has fallen is 47059.600000000006 meters.
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------

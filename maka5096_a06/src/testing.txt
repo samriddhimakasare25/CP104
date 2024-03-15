@@ -1,0 +1,95 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Samriddhi Makasare
+ID:      169065096
+Email:   maka5096@mylaurier.ca
+Version: 2023-11-08
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a game result (purple, gold, or press Enter to finish): purple
+Enter a game result (purple, gold, or press Enter to finish): purple
+Enter a game result (purple, gold, or press Enter to finish): yellow
+Enter a game result (purple, gold, or press Enter to finish): purple
+Enter a game result (purple, gold, or press Enter to finish): gold
+Enter a game result (purple, gold, or press Enter to finish): gold
+Enter a game result (purple, gold, or press Enter to finish): orange 
+Enter a game result (purple, gold, or press Enter to finish): 
+Purple count: 3
+Gold count: 2
+
+Enter a game result (purple, gold, or press Enter to finish): gold
+Enter a game result (purple, gold, or press Enter to finish): gold
+Enter a game result (purple, gold, or press Enter to finish): gold
+Enter a game result (purple, gold, or press Enter to finish): purple
+Enter a game result (purple, gold, or press Enter to finish): 
+Purple count: 1
+Gold count: 3
+
+Enter a game result (purple, gold, or press Enter to finish): purple 
+Enter a game result (purple, gold, or press Enter to finish): gold 
+Enter a game result (purple, gold, or press Enter to finish): purple
+Enter a game result (purple, gold, or press Enter to finish): gold 
+Enter a game result (purple, gold, or press Enter to finish): yellow 
+Enter a game result (purple, gold, or press Enter to finish): green 
+Enter a game result (purple, gold, or press Enter to finish): purple 
+Enter a game result (purple, gold, or press Enter to finish): red
+Enter a game result (purple, gold, or press Enter to finish): 
+Purple count: 1
+Gold count: 0
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Is 131 prime? True
+Is 4 prime? False
+Is 17 prime? True
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Principal: $100.00 Interest rate: 10.0% Monthly payment: $50.00
+--------------------------------------------------
+Month Interest Payment Balance
+--------------------------------------------------
+1 0.83 50.00 50.83
+2 0.42 50.00 1.26
+3 0.01 1.27 0.00
+Principal: $750.00 Interest rate: 8.5% Monthly payment: $200.00
+--------------------------------------------------
+Month Interest Payment Balance
+--------------------------------------------------
+1 5.31 200.00 555.31
+2 3.93 200.00 359.25
+3 2.54 200.00 161.79
+4 1.15 162.94 0.00
+Principal: $1200.00 Interest rate: 10.0% Monthly payment: $250.00
+--------------------------------------------------
+Month Interest Payment Balance
+--------------------------------------------------
+1 10.00 250.00 960.00
+2 8.00 250.00 718.00
+3 5.98 250.00 473.98
+4 3.95 250.00 227.93
+5 1.90 229.83 0.00
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+count_of_digits(-1024) -> 4
+count_of_digits(123456789) -> 9
+count_of_digits(7) -> 1
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Factor summation for 9 is 4
+Factor summation for 16 is 15
+Factor summation for 28 is 28
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------

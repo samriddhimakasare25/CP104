@@ -1,0 +1,90 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Samriddhi Makasare
+ID:      169065096
+Email:   maka5096@mylaurier.ca
+Version: 2023-09-12
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+The clothing brand is:Nike.
+I love icecream!
+"Knowledge is power." Sir Francis Bacon
+What I do in a day: 
+-wake up, 
+-eat,
+-sleep.
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+What is your age?60
+What is your favourite band?The Beatles
+I am 60 years old and The Beatles is my favourite band.
+
+What is your age? 12
+What is your favourite band?The Rolling Stones
+I am 12 years old and The Rolling Stones is my favourite band.
+
+What is your age?99
+What is your favourite band?Pink Floyd
+I am 99 years old and Pink Floyd is my favourite band.
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Length in miles:35
+Length in km 56.35
+
+Length in miles:33
+Length in km 53.13
+
+Length in miles:33
+Length in km 53.13
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Cost of 1 dosa:$ 1.95
+Number of dosa: 3
+Total cost of 3 dosa: $ 5.85
+
+Cost of 1 dosa:$ 8
+Number of dosa: 22
+Total cost of 22 dosa: $ 176.0
+
+Cost of 1 dosa:$ 89
+Number of dosa: 2
+Total cost of 2 dosa: $ 178.0
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Principal: $5000.00
+Interest (%): 5.0
+Number of years: 10
+Number of times interest compounded per year: 12
+Balance: $ 8235.0474884514
+
+Principal: $77
+Interest (%): 2
+Number of years: 2
+Number of times interest compounded per year: 10
+Balance: $ 80.13922824743364
+
+Principal: $99
+Interest (%): 20
+Number of years: 10
+Number of times interest compounded per year: 22
+Balance: $ 724.9362098113378
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------

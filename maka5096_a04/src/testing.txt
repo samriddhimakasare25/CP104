@@ -1,0 +1,81 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Samriddhi Makasare
+ID:      169065096
+Email:   maka5096@mylaurier.ca
+Version: 2023-10-23
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a day number (1-7): 1
+day_name(1) -> Sunday
+
+Enter a day number (1-7): 6
+day_name(6) -> Friday
+
+Enter a day number (1-7): 2
+day_name(2) -> Monday
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter the Air Quality Index (AQI): 256
+The pollution level for AQI 256 is: Very Unhealthy
+
+Enter the Air Quality Index (AQI): 99
+The pollution level for AQI 99 is: Moderate
+
+Enter the Air Quality Index (AQI): 12
+The pollution level for AQI 12 is: Good
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter the first value: -8.0
+Enter the second value: 12.0
+Enter the third value: 20.0
+The average of the two largest values is: 16.00
+
+Enter the first value: -5
+Enter the second value: 90
+Enter the third value: 38
+The average of the two largest values is: 64.00
+
+Enter the first value: 8.6
+Enter the second value: 4.4
+Enter the third value: 9.2
+The average of the two largest values is: 8.90
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter the first primary RGB color (red, green, or blue): green
+Enter the second primary RGB color (red, green, or blue): red
+The secondary RGB color is: yellow
+
+Enter the first primary RGB color (red, green, or blue): blue
+Enter the second primary RGB color (red, green, or blue): red
+The secondary RGB color is: fuchsia
+
+Enter the first primary RGB color (red, green, or blue): blue
+Enter the second primary RGB color (red, green, or blue): yellow
+The secondary RGB color is: Error
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter an integer: 14
+Result: Hoo Rah
+
+Enter an integer: 88
+Result: Hoo
+
+Enter an integer: 79
+Result: Zip
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------

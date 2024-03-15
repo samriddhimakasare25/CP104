@@ -1,0 +1,123 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Samriddhi Makasare
+ID:      169065096
+Email:   maka5096@mylaurier.ca
+Version: 2023-09-25
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the total sales: $32000
+
+Projected Tax Report
+-----------------------
+Total sales: $ 32000.00 
+Annual tax: % 18.50
+-----------------------
+Tax: $ 5920.00
+
+Enter the total sales: $98008
+
+Projected Tax Report
+-----------------------
+Total sales: $ 98008.00 
+Annual tax: % 18.50
+-----------------------
+Tax: $ 18131.48
+
+Enter the total sales: $87689
+
+Projected Tax Report
+-----------------------
+Total sales: $ 87689.00 
+Annual tax: % 18.50
+-----------------------
+Tax: $ 16222.47
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a positive digit number:25
+The product of the digits of  25 is  -3
+
+Enter a positive digit number:90
+The product of the digits of  90 is  9
+
+Enter a positive digit number:890
+The product of the digits of  890 is  89
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a date in the format YYYYMMDD: 19621025
+The reformatted date: 1962/10/25
+
+Enter a date in the format YYYYMMDD: 7809797
+The reformatted date: 780/97/97
+
+Enter a date in the format YYYYMMDD: 10042005
+The reformatted date: 1004/20/05
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Number of flyers: 1400
+Number of delivery people: 12
+Flyers per delivery person: 116
+Flyers left over: 8
+
+Number of flyers: 90
+Number of delivery people: 76
+Flyers per delivery person: 1
+Flyers left over: 14
+
+Number of flyers: 65
+Number of delivery people: 98
+Flyers per delivery person: 0
+Flyers left over: 65
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Foundation length (m) : 4.0
+Foundation width (m) :2.0
+Foundation height (m) :0.6
+Wall height (m): 2.5
+Cost of concrete ($/m^3):125
+Cost of bricks ($/m^2): 94
+Concrete needed for foundation (m^3):4.80
+Cost of concrete : $600.00
+Bricks needed for walls (m^2):30.00
+Cost of bricks : $2,820.00
+Total cost: $3,420.00
+
+Foundation length (m) : 0.2
+Foundation width (m) :10
+Foundation height (m) :12
+Wall height (m): 399
+Cost of concrete ($/m^3):21
+Cost of bricks ($/m^2): 123
+Concrete needed for foundation (m^3):24.00
+Cost of concrete : $504.00
+Bricks needed for walls (m^2):8139.60
+Cost of bricks : $1,001,170.80
+Total cost: $1,001,674.80
+
+Foundation length (m) : 993
+Foundation width (m) :983092
+Foundation height (m) :122
+Wall height (m): 212
+Cost of concrete ($/m^3):12
+Cost of bricks ($/m^2): 21
+Concrete needed for foundation (m^3):119097663432.00
+Cost of concrete : $1,429,171,961,184.00
+Bricks needed for walls (m^2):417252040.00
+Cost of bricks : $8,762,292,840.00
+Total cost: $1,437,934,254,024.00
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------

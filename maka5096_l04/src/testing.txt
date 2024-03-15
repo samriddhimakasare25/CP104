@@ -1,0 +1,109 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Samriddhi Makasare
+ID:      169065096
+Email:   maka5096@mylaurier.ca
+Version: 2023-09-25
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter radius: 5
+
+Diameter of circle: 10.00
+
+Enter radius: 2.5
+
+Diameter of circle: 5.00
+
+Enter radius: 66
+
+Diameter of circle: 132.00
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Length of base: 5.0
+Perpendicular height of pyramid: 10
+Slant height of square pyramid: 10.31
+Area of square pyramid: 128.08
+Volume of square pyramid: 83.33
+
+Length of base: 78
+Perpendicular height of pyramid: 43
+Slant height of square pyramid: 58.05
+Area of square pyramid: 15140.07
+Volume of square pyramid: 87204.0
+
+Length of base: 34
+Perpendicular height of pyramid: 34
+Slant height of square pyramid: 38.01
+Area of square pyramid: 3740.89
+Volume of square pyramid: 13101.33
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Length of side 1: 3.0
+Length of side 2: 4.0
+
+Radius of resulting circle: 5.00
+Diameter of resulting circle: 10.00
+Circumference of resulting circle: 31.42
+Area of resulting circle: 78.54
+
+Length of side 1: 88
+Length of side 2: 22
+
+Radius of resulting circle: 90.71
+Diameter of resulting circle: 181.42
+Circumference of resulting circle: 569.94
+Area of resulting circle: 25849.02
+
+Length of side 1: 34
+Length of side 2: 21
+
+Radius of resulting circle: 39.96
+Diameter of resulting circle: 79.92
+Circumference of resulting circle: 251.09
+Area of resulting circle: 5017.12
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Current Population: 1000000
+Average seconds between births: 80
+Average seconds between deaths: 95
+Average seconds between immigrations: 212
+Years in the future: 5
+
+The new population will be 2054984
+
+Current Population: 45
+Average seconds between births: 24
+Average seconds between deaths: 12
+Average seconds between immigrations: 1333
+Years in the future: 211
+
+The new population will be -272262135
+
+Current Population: 3333
+Average seconds between births: 33332
+Average seconds between deaths: 2324
+Average seconds between immigrations: 23323
+Years in the future: 133333
+
+The new population will be -1502852628
+
+-------------------------------------------------------
+t13
+-------------------------------------------------------
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
