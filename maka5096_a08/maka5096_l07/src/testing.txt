@@ -1,0 +1,91 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Samriddhi Makasare
+ID:      169065096
+Email:   maka5096@mylaurier.ca
+Version: 2023-10-29
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Guess: 100
+Too high, try again.
+Guess: 50
+Too high, try again.
+Guess: 35
+Too high, try again.
+Guess: 40
+Too high, try again.
+Guess: 45
+Too high, try again.
+Guess: 67
+Too high, try again.
+Guess: 
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a non-negative integer: 3
+The nearest power of 2 greater than or equal to 3 is: 4
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a positive number (or a negative number to exit): 4.5
+Enter a positive number (or a negative number to exit): 3.5
+Enter a positive number (or a negative number to exit): 0
+Enter a positive number (or a negative number to exit): 6.1
+Enter a positive number (or a negative number to exit): -1
+Minimum: 0.0
+Maximum: 6.1
+Total: 14.1
+Average: 3.52
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+For Day 1
+
+How much was breakfast? $7.95
+How much was lunch? $15.32
+How much was supper? $42.56
+Your total for the day was $65.83
+
+Were you away another day (Y/N)? Y
+For Day 2
+
+How much was breakfast? $5.55
+How much was lunch? $12.39
+How much was supper? $36.23
+Your total for the day was $54.17
+
+Were you away another day (Y/N)? N
+
+Summary of Meal Costs:
+Total cost of breakfasts: $13.50
+Total cost of lunches: $27.71
+Total cost of suppers: $78.79
+Total cost of all meals: $120.00
+
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Enter Employee ID number (or 0 to exit): 123
+Enter hourly wage rate: 45
+Enter number of hours worked during the week: 46
+Net payment for employee 123: $2125.07
+Enter Employee ID number (or 0 to exit): 124
+Enter hourly wage rate: 30
+Enter number of hours worked during the week: 46
+Net payment for employee 124: $1416.71
+Enter Employee ID number (or 0 to exit): 0
+Total net wages for all employees: $3541.78
+Average net wage per employee: $1770.89
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
